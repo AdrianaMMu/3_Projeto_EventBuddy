@@ -1,4 +1,10 @@
 EventBuddy Snack Project
+
+***https://snack.expo.dev/@adriana_munhoz/event-buddy-app?platform=ios***
+
+
+
+
 Um app mobile de eventos feito com React Native (Expo Snack) e Firebase v8. Permite login, cadastro, listagem, busca, favoritos, participação e CRUD de eventos por admins.
 
 Funcionalidades
